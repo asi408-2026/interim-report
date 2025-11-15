@@ -55,19 +55,19 @@ Orbital Parameters:
 - Type: Sun \- Synchronous Orbit, 98° inclination  
 - Period: 96 min orbit, 62min Sunlit phase and 34min Eclipse phase
 
-External Heat Inputs:
+External Heat Inputs (sourced from online sources, and used by industry partners)
 
 1. Direct solar radiation:  
-   * Solar constant: 1361 W/m²  
+   * Solar constant: 1361 W/m² (Kopp & Lean, 2011\)  
    * Present only during the Sunlit phase, as direct line of sight to the Sun is required  
    * Primary source of heat gain throughout the orbital cycle  
 2. Earth Albedo (reflected solar radiation):  
-   * Earth Albedo coefficient: 0.31  
+   * Earth Albedo coefficient: 0.31 (Centre for Science Education, n.d.)  
    * Reflected flux \= 0.31 \* 1361 \= \~422 W/m²  
    * Present only during the Sunlit phase  
    * Affects Earth-facing surfaces of the CubeSat due to reflection of the Sun’s solar radiation from Earth’s surface and atmosphere  
 3. Earth Infrared (IR) emission:  
-   * Flux of \~ 230 W/m²  
+   * Flux of \~ 230 W/m² (Anderson & Smith, 2018\)  
    * Emitted continuously from Earth’s surface and atmosphere  
    * Present through both Sunlit and Eclipse phases, contributing to baseline heating  
    * Affects Earth-facing surfaces at all times
@@ -105,7 +105,7 @@ A thermal model of the CubeSat was developed using Solidworks to evaluate its te
 The diagram below showcases the mechanical layout of subsystems within the CubeSat. Their respective functions, thermal properties and thermal loads for the autonomous phase (Sunlit and Eclipse) are shown in the subsequent table.
 
 ![][image1]  
-Mechanical Layout of the CubeSat’s Subsystems
+*Mechanical Layout of the CubeSat’s Subsystems*
 
 | Subsystem Component | Function |
 | :---- | :---- |
@@ -139,18 +139,18 @@ Mechanical Layout of the CubeSat’s Subsystems
 Below is a high-fidelity CAD model of the CubeSat, constructed by assembling subsystem CAD files provided by GomSpace, a CubeSat solutions provider and the intended supplier for our project’s hardware. This model was not used for as it is extremely detailed requiring weeks to complete simulation over just one orbit.
 
 ![][image2]  
-Isometric view of the high-fidelity CAD of the CubeSat with its Solar Panels deployed
+*Isometric view of the high-fidelity CAD of the CubeSat with its Solar Panels deployed*
 
 ![][image3]  
-Front view of the internal layout of the subsystems, with the CubeSat frame hidden
+*Front view of the internal layout of the subsystems, with the CubeSat frame hidden*
 
 Below is the lower fidelity CAD of the CubeSat, used for thermal simulations. It was built using dimensions taken from the CAD files used in the aforementioned assembly, with simplications. For example, not all components within each subsystem, such as circuitry within PCBs (Printed Circuit Boards) and other minor mechanical features, were fully CAD-ed out as the extra detail did not justify the additional simulation time.
 
 ![][image4]  
-Isometric view of the CAD model of the CubeSat with its Solar Panels deployed
+*Isometric view of the CAD model of the CubeSat with its Solar Panels deployed*
 
 ![][image5]  
-Front view of the CAD’s internal layout of the subsystems, with the CubeSat frame hidden
+*Front view of the CAD’s internal layout of the subsystems, with the CubeSat frame hidden*
 
 ## **3.5 Simulation tests**
 
@@ -180,18 +180,18 @@ The legend for the results are as follows, following the stated temperature rang
 - Blue represents the coolest
 
 ![][image6]  
-Temperature distribution of the solar panels at the end of the Sunlit phase
+*Temperature distribution of the solar panels at the end of the Sunlit phase*
 
 ![][image7]  
-Temperature distribution of internal subsystems at the end of the Sunlit phase
+*Temperature distribution of internal subsystems at the end of the Sunlit phase*
 
 Below are the temperature distributions of the same sun-facing surfaces and internal subsystems at the end of the Eclipse phase. These are the coolest temperatures that the CubeSat will experience during autonomous orbits.
 
  ![][image8]  
-Temperature distribution of the solar panels at the end of the Eclipse phase
+*Temperature distribution of the solar panels at the end of the Eclipse phase*
 
  ![][image9]  
-Temperature distribution of internal subsystems at the end of the Eclipse phase
+*Temperature distribution of internal subsystems at the end of the Eclipse phase*
 
 ### 3.6.2 Analyses of results
 
