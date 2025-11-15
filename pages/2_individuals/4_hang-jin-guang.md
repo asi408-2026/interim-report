@@ -82,6 +82,7 @@ These jigs feature an aluminum base with removable plastic/rubber stands, potent
 
 ![][image5]  
 *Table 4.3.1.3 Decision Matrix*  
+
 Base Plate with Removable Stands is selected as it is more lightweight/portable and less complex to manufacture. Fewer moving parts reduces points of failure and need for maintenance (such as lubrication of bearings).
 
 ### 4.3.2 Material Selection
