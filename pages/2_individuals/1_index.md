@@ -20,7 +20,7 @@ no_header_lines: true
     <a href="{{site.baseurl}}/lim-tze-yee">
       <img src="{{site.baseurl}}/assets/images/profiles/tzeyee.jpg" alt="Lim Tze Yee" style="width:100%; border-radius:50%">
       <h2>Lim Tze Yee</h2>
-      <p>A0264670B<br>Thermal Certification</p>
+      <p>A0264670B<br>Thermal Analysis and Certification</p>
     </a>
   </div>
   <div style="width:200px">
