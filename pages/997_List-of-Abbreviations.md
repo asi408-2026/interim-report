@@ -6,8 +6,9 @@ permalink: /abbreviations/
 
 # List of Abbreviations
 
-| AI | Artificial Intelligence |
+| ADCS | Altitude Determination and Control Systems |
 | :---- | :---- |
+| **AI** | Artificial Intelligence |
 | **CAD** | Computer Aided Design |
 | **CNC** | Computer Numerical Control |
 | **COG** | Center of gravity |
@@ -23,10 +24,12 @@ permalink: /abbreviations/
 | **IR** | Infrared |
 | **MGSE** | Mechanical Ground Support Equipment |
 | **NPU** | Neural Processing Unit |
+| **PCB** | Printed Circuit Board |
 | **PEKK** | Polyetherketoneketone |
+| **OBC** | On-Board Computer |
 | **OSHA** | Occupational Safety and Health Administration |
 | **RML** | Recovered Mass Loss |
-| **STK** | Systems Tool Kit (software) |
+| **SDR** | Software-Defined Radio |
 | **TML** | Total Mass Loss |
 | **TVAC** | Thermal Vacuum |
 | **U** | Unit of measurement for Cubesat (1U \= 100x100x100mm) |
