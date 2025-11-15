@@ -6,7 +6,7 @@ permalink: /hang-jin-guang/
 ---
 
 <div style="display:flex">
-  <img src="{{site.baseurl}}/assets/images/profiles/jg.jpg" alt="Hang Jin Guang" width="200" style="border-radius:50%">
+  <img src="{{site.baseurl}}/assets/images/profiles/jg1.jpg" alt="Hang Jin Guang" width="200" style="border-radius:50%">
   <div style="margin-left: 20px">
     <h2>Hang Jin Guang</h2>
     <h3>Year 4 Mechanical Engineering</h3>

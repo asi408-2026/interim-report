@@ -25,7 +25,7 @@ no_header_lines: true
   </div>
   <div style="width:200px">
     <a href="{{site.baseurl}}/hang-jin-guang">
-      <img src="{{site.baseurl}}/assets/images/profiles/jg.jpg" alt="Hang Jin Guang" style="width:100%; border-radius:50%">
+      <img src="{{site.baseurl}}/assets/images/profiles/jg1.jpg" alt="Hang Jin Guang" style="width:100%; border-radius:50%">
       <h2>Hang Jin Guang</h2>
       <p>A0254475X<br>Mechanical Ground Support Equipment</p>
     </a>
