@@ -12,3 +12,21 @@
 section {
         text-align: justify;
     }
+
+.main-content h1,
+.main-content h2 {
+  position: relative;
+  padding-bottom: 0.5em;
+  margin-bottom: 1em;
+}
+
+.main-content h1::after,
+.main-content h2::after {
+  content: "";
+  display: block;
+  width: 100%;
+  border-bottom: 1px solid #ccc;  // you can change the color / thickness
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
