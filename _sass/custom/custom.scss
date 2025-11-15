@@ -28,7 +28,7 @@
   content: "";
   display: block;
   width: 100%;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.2);  // faint gray via semi-transparent black
+  border-bottom: 1px solid $grey-lt-200;  // faint gray via semi-transparent black
   position: absolute;
   bottom: 0;
   left: 0;
