@@ -13,7 +13,7 @@ no_header_lines: true
     <a href="{{site.baseurl}}/victor-soh">
       <img src="{{site.baseurl}}/assets/images/profiles/victor1.jpg" alt="Victor Soh Cheng Ying" style="width:100%; border-radius:50%">
       <h2>Victor Soh Cheng Ying</h2>
-      <p>A0277970M<br>CubeSat Frame Structure </p>
+      <p>A0277970M<br>Mechanical Design, Analysis, and Manufacturing of CubeSat Frame Structure </p>
     </a>
   </div>
   <div style="width:200px">
