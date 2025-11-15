@@ -149,7 +149,7 @@ To **facilitate precise alignment during assembly**, 2 mm deep recesses matching
 To ensure that the holes cut would not affect the structural integrity of the Base Plate when subject to loads from G5, FEA was conducted. A total load of 180N (twice the intended load) was applied with both ends of the plate fixed, and a maximum stress of 5.27 \*10^6 N/m^2 was recorded. This is far below yield stress of Al6061 (2.76\*10^8 N/m^2).
 
 ![][image13]  
-*Fig. 4.4.2.2 FEA (Shown here: Configuration with highest recorded stress)*
+*Fig. 4.4.2.2 FEA Screenshot (Shown here: Configuration with highest recorded stress). Other FEA Tests can be found in [Appendix B]({{site.baseurl}}/appendix-b)*
 
 To **prevent the CubeSat from toppling/sliding** off the rail blocks during transport, endblocks were designed, to be installed onto the ends of the rail blocks using M3 screws.   
 ![][image14]![][image15]  
