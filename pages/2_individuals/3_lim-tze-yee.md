@@ -106,7 +106,7 @@ The diagram below showcases the mechanical layout of subsystems within the CubeS
 
 ![][image1]  
 *Mechanical Layout of the CubeSat’s Subsystems*
-<span class="unselectable">
+<div class="unselectable">
 
 | Subsystem Component | Function |
 | :---- | :---- |
@@ -135,7 +135,7 @@ The diagram below showcases the mechanical layout of subsystems within the CubeS
 | Heater  | From \-40 | 6 (turned off for this simulation) |
 | Simera Monoscope  | \-10 to 50 | 0 (only turned on during imaging phase) |
 
-</span>
+</div>
 
 ### 3.4.2 CAD Models of the CubeSat
 
