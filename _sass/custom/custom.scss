@@ -9,9 +9,12 @@
   margin-left: auto;
   margin-right: auto;
 }
-section {
-        text-align: justify;
-    }
+
+.main-content {
+  text-align: justify;
+  text-justify: inter-word; /* optional: improves spacing behavior */  
+}
+
 
 .main-content h1,
 .main-content h2 {
@@ -25,7 +28,7 @@ section {
   content: "";
   display: block;
   width: 100%;
-  border-bottom: 1px solid #ccc;  // you can change the color / thickness
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);  // faint gray via semi-transparent black
   position: absolute;
   bottom: 0;
   left: 0;
