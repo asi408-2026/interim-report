@@ -122,7 +122,7 @@ Below is a high-fidelity CAD model of the CubeSat, constructed by assembling sub
 ![][image5]  
 *Fig 3.4.2.2 Front view of the internal layout of the subsystems, with the CubeSat frame hidden*
 
-Below is the lower fidelity CAD of the CubeSat, used for thermal simulations. It was built using dimensions taken from the CAD files used in the aforementioned assembly, with simplications. For example, not all components within each subsystem, such as circuitry within PCBs (Printed Circuit Boards) and other minor mechanical features, were fully CAD-ed out as the extra detail did not justify the additional simulation time.
+Below is the lower fidelity CAD of the CubeSat, used for thermal simulations. It was built using dimensions taken from the CAD files used in the aforementioned assembly, with simplications. For example, not all components within each subsystem, such as circuitry within PCBs and other minor mechanical features, were fully CAD-ed out as the extra detail did not justify the additional simulation time.
 
 ![][image6]  
 *Fig 3.4.3.3 Isometric view of the CAD model of the CubeSat with its Solar Panels deployed*
