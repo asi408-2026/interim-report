@@ -33,6 +33,7 @@ The **Concept of Operations** for Galassia-5 on an **Anti-Piracy Surveillance mi
 
 The table below provides a summary of Galassia-5’s Key System Specifications.  
  ![][image2]
+ 
  *Table 1.1.2. Key System Specifications of Galassia-5*
 
 A CAD mock-up of Galassia-5 is shown below, showing the **Coordinate System** in use.  

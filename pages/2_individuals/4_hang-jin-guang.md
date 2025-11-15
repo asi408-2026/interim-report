@@ -113,6 +113,7 @@ Several designs were developed to optimise the jig for supporting the CubeSat.
 
 The design consists of an Aluminum 6061 base plate of dimensions 400 x 260 x 100 mm. This allows enough space for the stands to be mounted, such that all 3 orientations (X/Y/ Z) of G5 can be supported.  
 ![][image7]
+
 *Fig. 4.4.1.1 Base Plate Version 1\. The Red, Magenta and Green lines denotes the CubeSat position for each orientation.*
 
 Two types of stands are mounted to the base plate from underneath using countersunk M5 screws, to accommodate different orientations of Galassia-5: 
@@ -122,7 +123,8 @@ Two types of stands are mounted to the base plate from underneath using counters
 
 The stands are raised to allow a 50 mm clearance beneath the CubeSat for access to bottom components.  
 ![][image8]![][image9]
-Fig. 4.4.1.2 Corner Tower (Left) and Rail Block (Right)
+
+*Fig. 4.4.1.2 Corner Tower (Left) and Rail Block (Right)*
 
 To validate the concept, a 3D-printed prototype was fabricated. A fit test was conducted using a 3D-printed mock-up of Galassia-5, and it was verified that the CubeSat fit properly in both the horizontal and vertical orientations onto the stands on the jig.
 
@@ -145,6 +147,7 @@ To **reduce the weight of the Jig assembly**, material was removed from the base
 To **facilitate precise alignment during assembly**, 2 mm deep recesses matching the dimensions of the stands were machined into the base plate. This ensured that the screw holes would align accurately when the stands were placed into position. In accordance with Design for Manufacturing principles, T-bone fillets were incorporated into the recesses to provide suitable toolpaths for the milling cutter, ensuring machinability. 
 
 ![][image12]
+
 *Fig. 4.4.2.1 Base Plate Version 2\. Note the holes cut and 2mm deep recesses.*
 
 To ensure that the holes cut would not affect the structural integrity of the Base Plate when subject to loads from G5, FEA was conducted. A total load of 180N (twice the intended load) was applied with both ends of the plate fixed, and a maximum stress of 5.27 \*10^6 N/m^2 was recorded. This is far below yield stress of Al6061 (2.76\*10^8 N/m^2).
