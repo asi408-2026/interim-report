@@ -1,5 +1,5 @@
 ---
-title: "Appendix B"
+title: "Appendix A"
 parent: Appendices
 nav_order: 2
 permalink: /appendix-a/
