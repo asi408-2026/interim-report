@@ -32,7 +32,8 @@ The **Concept of Operations** for Galassia-5 on an **Anti-Piracy Surveillance mi
 *Fig. 1.1.1 Concept of Operations \- Shipboard detection of Vessels using EO Imagery for Anti Piracy*
 
 The table below provides a summary of Galassia-5’s Key System Specifications.  
- ![][image2]*Table 1.1.2. Key System Specifications of Galassia-5*
+ ![][image2]
+ *Table 1.1.2. Key System Specifications of Galassia-5*
 
 A CAD mock-up of Galassia-5 is shown below, showing the **Coordinate System** in use.  
 **![][image3]**  
