@@ -29,10 +29,10 @@ There are 3 main objectives:
 
 1. Understanding of the Orbital environment  
    * Hottest and coldest temperatures in Sunlit & Eclipse phases  
-   * Hot / cool spots within the   
+   * Hot / cool spots within the CubeSat
 2. Design of thermal control systems  
    * Heating / cooling effects due to different CubeSat orientations with respect to the Sun and Earth  
-   * Quantification of heaters / heat sin  
+   * Quantification of heaters / heat sink  
 3. Validate CubeSat thermal performance
 
 ### 3.1.3 Current Progress
