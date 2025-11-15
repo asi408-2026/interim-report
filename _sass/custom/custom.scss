@@ -15,6 +15,9 @@
   text-justify: inter-word; /* optional: improves spacing behavior */  
 }
 
+h1, h2, h3, h4, h5, h6 {
+    text-align: left; /* or inherit if you prefer */
+}
 
 .main-content h1,
 .main-content h2 {
