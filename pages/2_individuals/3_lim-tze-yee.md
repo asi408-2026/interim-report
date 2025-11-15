@@ -106,7 +106,7 @@ The diagram below showcases the mechanical layout of subsystems within the CubeS
 
 ![][image1]  
 *Mechanical Layout of the CubeSat’s Subsystems*
-
+<span class="unselectable">
 | Subsystem Component | Function |
 | :---- | :---- |
 | Solar Panels | Convert sunlight into electrical power that powers the CubeSat |
@@ -133,6 +133,7 @@ The diagram below showcases the mechanical layout of subsystems within the CubeS
 | Battery Battery (Discharging) | \-20 to 75 | 5.4 |
 | Heater  | From \-40 | 6 (turned off for this simulation) |
 | Simera Monoscope  | \-10 to 50 | 0 (only turned on during imaging phase) |
+</span>
 
 ### 3.4.2 CAD Models of the CubeSat
 

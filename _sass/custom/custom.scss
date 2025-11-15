@@ -33,3 +33,10 @@
   bottom: 0;
   left: 0;
 }
+.unselectable {
+  -webkit-touch-callout: none;    /* iOS Safari / WebKit menu */
+  -webkit-user-select: none;      /* Chrome / Safari */
+  -moz-user-select: none;         /* Firefox */
+  -ms-user-select: none;          /* IE / Edge */
+  user-select: none;              /* Standard */
+}
