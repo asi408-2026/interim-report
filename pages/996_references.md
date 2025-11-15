@@ -7,9 +7,9 @@ permalink: /references/
 
 # References
 
-12U Cubesat Structure | satsearch. (2025). Satsearch.co. Retrieved November 1, 2025, from [https://satsearch.co/products/endurosat-12u-cubesat-structure](https://satsearch.co/products/endurosat-12u-cubesat-structure)
+12U Cubesat Structure ; satsearch. (2025). Satsearch.co. Retrieved November 1, 2025, from [https://satsearch.co/products/endurosat-12u-cubesat-structure](https://satsearch.co/products/endurosat-12u-cubesat-structure)
 
-Albedo and climate | center for science education. (n.d.). Retrieved 15 November 2025, from [https://scied.ucar.edu/learning-zone/how-climate-works/albedo-and-climate\#:\~:text=Above%20the%20Earth%20surface%2C%20clouds,sunlight%20that%20gets%20to%20Earth%3F](https://scied.ucar.edu/learning-zone/how-climate-works/albedo-and-climate#:~:text=Above%20the%20Earth%20surface%2C%20clouds,sunlight%20that%20gets%20to%20Earth%3F)
+Albedo and climate ; center for science education. (n.d.). Retrieved 15 November 2025, from [https://scied.ucar.edu/learning-zone/how-climate-works/albedo-and-climate\#:\~:text=Above%20the%20Earth%20surface%2C%20clouds,sunlight%20that%20gets%20to%20Earth%3F](https://scied.ucar.edu/learning-zone/how-climate-works/albedo-and-climate#:~:text=Above%20the%20Earth%20surface%2C%20clouds,sunlight%20that%20gets%20to%20Earth%3F)
 
 Anderson, B. J., & Smith, R. E. (2018). Help: Satellite irradiation. Retrieved 15 November 2025, from [https://www.spenvis.oma.be/help/background/illumination/illumination.html](https://www.spenvis.oma.be/help/background/illumination/illumination.html)
 
@@ -33,6 +33,6 @@ Kopp, G., & Lean, J. L. (2011). A new, lower value of total solar irradiance: Ev
 
 NanoStructure 6U Datasheet 6U structure for nano-satellites. (6 April 2018). Retrieved November 1, 2025, from [https://gomspace.com/UserFiles/Subsystems/datasheet/gs-ds-nanostructure-6u-11.pdf](https://gomspace.com/UserFiles/Subsystems/datasheet/gs-ds-nanostructure-6u-11.pdf)
 
-Professional Workshop | Engineering Design & Innovation Centre (2025). National University of Singapore. Retrieved November 1, 2025, from [https://cde.nus.edu.sg/edic/facilities/professional-workshop/](https://cde.nus.edu.sg/edic/facilities/professional-workshop/)
+Professional Workshop ; Engineering Design & Innovation Centre (2025). National University of Singapore. Retrieved November 1, 2025, from [https://cde.nus.edu.sg/edic/facilities/professional-workshop/](https://cde.nus.edu.sg/edic/facilities/professional-workshop/)
 
 ‌NASA Lessons Learned Information System. (n.d.). Electrostatic discharge control in GSE (Lesson 685). [https://llis.nasa.gov/lesson/685](https://llis.nasa.gov/lesson/685)
