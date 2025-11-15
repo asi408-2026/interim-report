@@ -8,7 +8,7 @@ permalink: /acknowledgements/
 
 # Acknowledgements
 
-The Team would like to first and foremost thank our project supervisors and advisors: Mr. Eugene Ee, Prof. Chua Tai Wei, and Prof. Goh Cher Hiang for providing us with suggestions and guidance throughout the semester. Their knowledge, expertise and experience in the relatively complex field of Space Systems and CubeSats have provided us with insightful knowledge, allowing us to improve upon many aspects of our project.
+The Team would like to first and foremost thank our project supervisors and advisors: Mr. Eugene Ee, Prof. Chua Tai Wei, and Prof. Goh Cher Hiang for providing us with suggestions and guidance throughout the semester. Their knowledge, expertise and experience in the relatively complex field of Space Systems and CubeSats have provided us with insightful knowledge, allowing us to improve upon many aspects of our project. We would also like to thank our Examiner Mr Royston Shieh for his time in reviewing our project and offering advice for us to improve on.
 
 We would also like to thank the other Galassia-5 Subteams for working closely with us and readily providing all required information about the Payloads under their purview, such that we have a clear direction in which to proceed regarding the Mechanical Design requirements of Galassia-5.
 
