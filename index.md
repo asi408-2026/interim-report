@@ -55,10 +55,10 @@ A CAD mock-up of Galassia-5 is shown below, showing the **Coordinate System** in
 
 | Stakeholder/Partner | Main Considerations | Support Provided |
 | :---- | :---- | :---- |
-| ![][image3] | 1\. Building a strong Singaporean core for defence engineering talent; </br> 2\. Investigate and Testbed Upcoming Technologies | 1\. Program Funding; </br> 2\. Mission Scoping |
-| ![][image4] | 1\. Development of Singapore’s national talent pipeline for Space Sector; </br> 2\. Supporting Research, Innovation, and Enterprise in Singapore’s Spacetech sector. | 1\. Facilitation of Link ups; </br> 2\. Publicity Generation; </br> 3\. In Kind Support |
-| ![][image5] | 1\. Development of talent pipeline and capabilities for Space Sector  | 1\. Introductions to Link ups; </br> 2\. In Kind Support (TVAC, Vibration Testing, Metrology); </br> 3\. Industry Consultancy |
-| ![][image6] | 1\. Ensure timely delivery of Satellite Bus; </br> 2\. Ensure Satellite Bus is reliable | 1\. Construction of Satellite Bus; </br> 2\. Industry Consultancy |
+| ![][image3] | 1\. Building a strong Singaporean core for defence engineering talent; <br> 2\. Investigate and Testbed Upcoming Technologies | 1\. Program Funding; <br> 2\. Mission Scoping |
+| ![][image4] | 1\. Development of Singapore’s national talent pipeline for Space Sector; <br> 2\. Supporting Research, Innovation, and Enterprise in Singapore’s Spacetech sector. | 1\. Facilitation of Link ups; <br> 2\. Publicity Generation; <br> 3\. In Kind Support |
+| ![][image5] | 1\. Development of talent pipeline and capabilities for Space Sector  | 1\. Introductions to Link ups; <br> 2\. In Kind Support (TVAC, Vibration Testing, Metrology); <br> 3\. Industry Consultancy |
+| ![][image6] | 1\. Ensure timely delivery of Satellite Bus; <br> 2\. Ensure Satellite Bus is reliable | 1\. Construction of Satellite Bus; <br> 2\. Industry Consultancy |
 
 *Table 1.2.1 Galassia-5 Stakeholders and Partners*
 
