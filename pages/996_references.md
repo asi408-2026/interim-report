@@ -13,7 +13,7 @@ Albedo and climate ; center for science education. (n.d.). Retrieved 15 November
 
 Anderson, B. J., & Smith, R. E. (2018). Help: Satellite irradiation. Retrieved 15 November 2025, from [https://www.spenvis.oma.be/help/background/illumination/illumination.html](https://www.spenvis.oma.be/help/background/illumination/illumination.html)
 
-‌ATC | 1-Stop Solution Provider for Quality Surface Finishing. (2025). Retrieved November 1, 2025, from [https://www.atc-treatment.com/](https://www.atc-treatment.com/)
+‌ATC ; 1-Stop Solution Provider for Quality Surface Finishing. (2025). Retrieved November 1, 2025, from [https://www.atc-treatment.com/](https://www.atc-treatment.com/)
 
 Dodsworth, B. (2017, April 18). Fine-tuned fixturing. Canadian Fabricating & Welding. [https://www.canadianmetalworking.com/canadianfabricatingandwelding/article/welding/fine-tuned-fixturing](https://www.canadianmetalworking.com/canadianfabricatingandwelding/article/welding/fine-tuned-fixturing)
 
@@ -25,7 +25,7 @@ EnduroSat EAD. (n.d.). Assembly JIG – Satellite assembly made easy. [https://w
 
 EnduroSat EAD. (n.d.). Rotary jig – Satellite Rotary Jig for CubeSat Assembly. [https://www.endurosat.com/products/rotary-jig/](https://www.endurosat.com/products/rotary-jig/)
 
-EXOpod Nova User Manual Revision 1.2 / EXOpod NOVA User Manual Advanced Cubesat deployment system Revision 1.2 |. (2024). Retrieved November 1, 2025, from [https://www.exolaunch.com/documents/EXOpod\_Nova\_User\_Manual\_June\_2024.pdf](https://www.exolaunch.com/documents/EXOpod_Nova_User_Manual_June_2024.pdf)
+EXOpod Nova User Manual Revision 1.2 / EXOpod NOVA User Manual Advanced Cubesat deployment system Revision 1.2 . (2024). Retrieved November 1, 2025, from [https://www.exolaunch.com/documents/EXOpod\_Nova\_User\_Manual\_June\_2024.pdf](https://www.exolaunch.com/documents/EXOpod_Nova_User_Manual_June_2024.pdf)
 
 Innovative Solutions In Space B.V. (2016). Integration Support Jigs – Brochure v1 \[Brochure\]. [https://www.cubesatshop.com/wp-content/uploads/2016/06/ISIS-Integration-Support-Jigs-Brochure-v1.pdf](https://www.cubesatshop.com/wp-content/uploads/2016/06/ISIS-Integration-Support-Jigs-Brochure-v1.pdf)
 
